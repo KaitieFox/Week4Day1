@@ -1,0 +1,34 @@
+﻿body {
+    font-family: 'Amatic SC', cursive;
+}
+
+p {
+    color: blue;
+    /*this is for all paragraphs.*/
+    font-family: Arial;
+    font-size: 12px;
+}
+
+.funkyFresh {
+    color: burlywood;
+    font-family: 'Franklin Gothic';
+    font-size: 22px;
+}
+
+#theThird {
+    color: purple;
+    font-family: 'Leckerli One', cursive;
+}
+
+h1, h3, h6 {
+    font-family: 'Comic Sans MS';
+}
+
+ol li { /*all list items inside ordered list. that's how you'd read that.*/
+    font-size: 15px;
+    font-family: 'Homemade Apple', cursive;
+}
+
+table {
+    border: dashed;
+}
